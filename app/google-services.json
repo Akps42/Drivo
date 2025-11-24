@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544558033330",
+    "project_id": "drivo-36ada",
+    "storage_bucket": "drivo-36ada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544558033330:android:d1e6398924c29bd5e2dcab",
+        "android_client_info": {
+          "package_name": "com.ak.drivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8XZ9JugeY42Zw4kCoUiVtDi3_D1ba4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
